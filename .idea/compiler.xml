@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="assembly" />
+        <module name="hdata-api" />
+        <module name="hdata-console" />
+        <module name="hdata-core" />
+        <module name="hdata-csv" />
+        <module name="hdata-excel" />
+        <module name="hdata-ftp" />
+        <module name="hdata-hbase" />
+        <module name="hdata-hdfs" />
+        <module name="hdata-hive" />
+        <module name="hdata-http" />
+        <module name="hdata-jdbc" />
+        <module name="hdata-kafka" />
+        <module name="hdata-mongodb" />
+        <module name="hdata-wit" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>

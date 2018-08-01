@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/assembly" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-excel" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-ftp" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-hbase" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-hdfs" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-hive" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-http" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-jdbc" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-kafka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-mongodb" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/hdata-wit" charset="UTF-8" />
+  </component>
+</project>
